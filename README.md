@@ -1,2 +1,2 @@
 # DownloadManager
-DownloadManager that you can use for whatever project you're working on
+A software that you can use for keeping your software up to date.
