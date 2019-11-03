@@ -1,2 +1,2 @@
 # DownloadManager
-A software that you can use for keeping your software up to date.
+A manager that you can use to keep software up to date.
