@@ -1,4 +1,6 @@
-import sys
 import os 
 
-os.system("uname -r")
+
+os.system("./Updater.sh")
+store_status= os.system("cat Updater.sh | grep check_updates")
+print(store_status)
